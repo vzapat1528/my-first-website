@@ -1,0 +1,21 @@
+body  {
+	background-color: #b7a5ce;
+}
+
+h1 {
+	color: ##000000;
+	font-family: 'Asap', sans-serif;
+	font-size: 70px;
+	text-align: center;
+}
+
+p  {
+	color: #ffffff
+	font-family:'Asap' sans-serif;
+	font-size: 18px;
+}
+
+
+img  {
+	max-width: 100%;
+}
