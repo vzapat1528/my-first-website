@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <html>
 
@@ -8,7 +8,6 @@
 <link href="https://fonts.googleapis.com/css?family=Asap" rel="stylesheet">
 <link rel="stylesheet" href="main.css">
 
-<title> First Website!</title>
 
 <body>
 
